@@ -51,5 +51,5 @@ I built this project with CSS flexbox - I learnt how to round the corners of the
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Yakobus-Mardi](https://www.frontendmentor.io/profile/Yakobus-Mardi)
+- Twitter - [@YakobusMardi](https://twitter.com/YakobusMardi)
