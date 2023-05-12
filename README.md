@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/screenshot%20order%20summary%20component.png]
+![](./images/screenshot%20order%20summary%20component.png)
 
 ### Links
 
