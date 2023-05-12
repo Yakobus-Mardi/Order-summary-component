@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Yakobus-Mardi/Order-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [](https://yakobus-mardi.github.io/Order-summary-component/)
 
 ## My process
 
